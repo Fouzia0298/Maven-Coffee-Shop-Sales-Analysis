@@ -2,6 +2,7 @@
 ## Project Overview
 This project provides a comprehensive analysis of sales transactions from **Maven Roasters**, a fictitious coffee shop chain operating across three locations in New York City (Lower Manhattan, Hell's Kitchen, and Astoria). The goal was to explore the dataset, perform data quality assurance, analyze sales trends using Excel PivotTables, and build an interactive dashboard to derive actionable insights and recommendations for the business.
 
+![Dashboard Screenshot](https://github.com/Fouzia0298/Maven-Coffee-Shop-Sales-Analysis/blob/main/coffee%20sales%20dashboard.PNG)
 
 The analysis covers sales performance over time, identifies peak hours and days, and evaluates product-level trends to optimize sales strategies, improve operational efficiency, and enhance customer satisfaction.
 
